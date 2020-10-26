@@ -1,0 +1,14 @@
+.back{
+    background: rgba(197, 194, 193, 0.938);
+    height: 35vh;
+    text-align: center;
+    border: 2px dashed black;
+    border-radius: 20px;
+    padding: 5vh;
+    outline: none;
+    cursor: pointer;
+}
+.back:hover{
+    background: rgba(150, 146, 145, 0.938);
+    border: 2px solid red;
+}
